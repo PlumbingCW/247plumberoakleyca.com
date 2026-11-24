@@ -1,0 +1,130 @@
+{
+ "meta": "Plumber for Summer Lake in Oakley, CA: water heaters, hard water scale, leaks and drains for larger family homes. Call (888) 910-8644 to describe the problem.",
+ "lead": [
+  "Plumbing help for Summer Lake, the community along East Cypress Road in Oakley, CA. Call the dispatch line, describe what is happening and arrange a visit."
+ ],
+ "intro": [
+  "Summer Lake North is a DeNova Homes community of single-family houses on East Cypress Road in Oakley, ZIP 94561. The builder's listing describes five collections of homes from roughly 1,900 to 3,500 square feet, with a small lake as the community feature. The listing counts 824 homes in total.",
+  "Larger houses put more fixtures, longer hot water runs and bigger water heaters behind a single service call. That is the angle of this page: water heaters, hard water and everyday fixtures in a family-sized home."
+ ],
+ "sections": [
+  {
+   "kind": "prose",
+   "h2": "What we know about Summer Lake and what we do not",
+   "paras": [
+    "The builder's listing is our source for the size and style of the homes. It does not give a year built for each street, and we will not guess one. Your county property record lists the year built for your own house, and that number tells you how old the original water heater and fixtures could be.",
+    "Summer Lake sits inside Oakley, so the City of Oakley handles permits and Ironhouse Sanitary District handles the public sewer. If you are not sure who serves your street, our [[service-area|Oakley service area page]] explains the split between the water district, the sanitary district and the city."
+   ]
+  },
+  {
+   "kind": "local",
+   "h2": "Hard water and what it leaves behind",
+   "paras": [
+    "Diablo Water District reports hardness between 87 and 150 mg/L, with an average near 124 mg/L. That is about 7 grains per gallon, which is moderately hard. Over the years it leaves white scale on faucet aerators, showerheads and the bottom of tank water heaters.",
+    "Scale is a normal result of the water supply and not a defect in your house. A quick flush of the tank, clean aerators and a look at the anode rod slow it down. If the scale bothers you, [[water-softener-filtration|water softening and filtration]] is the planned fix."
+   ],
+   "facts": [
+    {
+     "value": "87 to 150 mg/L",
+     "label": "Diablo Water District hardness range"
+    },
+    {
+     "value": "124 mg/L",
+     "label": "Reported average hardness"
+    }
+   ]
+  },
+  {
+   "kind": "compare",
+   "h2": "Choosing a water heater for a larger home",
+   "paras": [
+    "A heater that suited a small household can run short when several people shower back to back. The table compares the usual options in plain terms, and a technician can size one to your household on site."
+   ],
+   "table": {
+    "head": [
+     "Option",
+     "Fits best when",
+     "Watch for"
+    ],
+    "rows": [
+     [
+      "Tank replacement",
+      "You want a like-for-like swap with the least change to piping and venting",
+      "Tank size against your busiest morning, plus the age of the unit you are replacing"
+     ],
+     [
+      "Tankless unit",
+      "You have room on an exterior wall and a long run of hot water use",
+      "Venting, gas line capacity and descaling in hard water"
+     ],
+     [
+      "Repair of the current heater",
+      "The tank is sound and a part such as a thermostat, element or valve has failed",
+      "A leak at the tank body, which cannot be repaired"
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "prose",
+   "h2": "Water heater rules worth knowing",
+   "paras": [
+    "California requires water heaters to be braced or strapped so they do not tip in an earthquake, under Health and Safety Code section 19211. A replacement should meet that requirement, and you can check your current unit by looking for two straps around the upper and lower thirds of the tank.",
+    "For gas units, the Bay Area Air Quality Management District adopted amendments on November 4, 2026 that delay its zero-NOx rule for new residential gas units to January 2028. Read our [[water-heater-replacement|water heater replacement]] page for how that affects the choice between gas and electric."
+   ],
+   "bullets": [
+    "Know where the main water shutoff and the heater's own shutoff valve are before you need them",
+    "Do not run a heater that is leaking at the tank, shut off the water and the power or gas",
+    "Take a photo of the data plate, which shows the age and capacity, before you call"
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Other calls from Summer Lake homes",
+   "paras": [
+    "Not every call is a water heater. Slow drains, a toilet that keeps running and a faucet that drips are the everyday jobs, and a camera or cable usually finds the cause quickly. See [[drain-cleaning|drain cleaning]] and [[toilet-repair|toilet repair]] for how those visits work, or [[leak-detection|leak detection]] when the water bill climbs without a visible leak."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do you take plumbing calls in Summer Lake?",
+   "a": [
+    "Yes. The dispatch line takes calls for Oakley, including Summer Lake and the streets around East Cypress Road. Call, say which street you are on and describe the problem."
+   ]
+  },
+  {
+   "q": "Why is there white scale on my faucets and showerheads?",
+   "a": [
+    "That is mineral buildup from moderately hard water. Diablo Water District reports an average hardness near 124 mg/L. Soaking aerators in vinegar clears them, and a softener reduces how fast scale returns."
+   ]
+  },
+  {
+   "q": "How do I know how old my water heater is?",
+   "a": [
+    "Read the data plate on the tank. The serial number usually encodes the month and year of manufacture. If you cannot decode it, photograph the plate and describe it when you call."
+   ]
+  },
+  {
+   "q": "Should I choose a tank or a tankless water heater?",
+   "a": [
+    "It depends on space, venting, gas supply and how much hot water your household uses at once. Both are installed in Oakley homes. A technician can compare them against your layout during a visit."
+   ]
+  },
+  {
+   "q": "Who handles a leak at the water meter?",
+   "a": [
+    "The water supplier is responsible for the line up to the meter and the homeowner is responsible after it. Your water bill names the supplier. For a leak on the house side, call dispatch."
+   ]
+  }
+ ],
+ "cta_mid": "Water heater leaking or hot water gone in Summer Lake? Call dispatch and describe what you see. Shut off the water to the heater first.",
+ "cta_end": "Planning a water heater swap or chasing scale in Summer Lake? Call the dispatch line, and the work and price are explained before it starts.",
+ "side": {
+  "h3": "Summer Lake, Oakley",
+  "copy": "Describe the problem, give your street and we arrange the visit.",
+  "link": "water-heater-replacement",
+  "link_text": "Read about water heater replacement"
+ },
+ "slug": "plumber-summer-lake-oakley-ca"
+}

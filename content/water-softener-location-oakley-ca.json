@@ -1,0 +1,161 @@
+{
+ "slug": "water-softener-location-oakley-ca",
+ "meta": "Where is a water softener installed? Usually on the main line after the shutoff, near a drain and outlet. Placement tips for Oakley, CA. Call (888) 910-8644.",
+ "lead": [
+  "A water softener in Oakley, CA is normally installed on the main water line right after the shutoff, ahead of the water heater, close to a floor drain and a power outlet."
+ ],
+ "intro": [
+  "A water softener is a tank-based system that swaps hardness minerals for sodium or potassium so scale stops building up in pipes and heaters. Most homes put it in the garage, a side yard enclosure or a utility closet where the supply line first enters the building.",
+  "This page explains why that spot works, how to compare the usual locations, what the installer needs within reach, and how local water numbers from Diablo Water District fit into the decision."
+ ],
+ "sections": [
+  {
+   "kind": "prose",
+   "h2": "The logic behind the standard spot",
+   "paras": [
+    "Softened water is only useful where it is needed, so the unit tees into the cold line downstream of the main shutoff. That placement lets you isolate the house and service the softener without draining anything else. Putting it ahead of the water heater matters because scale forms fastest when water is heated.",
+    "The system also has to dump brine and rinse water when it regenerates. That discharge needs a legal air gap into a drain, and the control head needs standard household power. Those two requirements shape where the equipment can realistically live."
+   ]
+  },
+  {
+   "kind": "compare",
+   "h2": "Garage, side yard or closet: choosing a home for the tank",
+   "paras": [
+    "Each location has trade-offs. The right one depends on where your main line enters and how far the nearest drain sits from it."
+   ],
+   "table": {
+    "head": [
+     "Location",
+     "Why it works",
+     "Watch out for"
+    ],
+    "rows": [
+     [
+      "Attached garage",
+      "Main line often enters here, floor drain and outlet close by, easy to refill salt",
+      "Sun and heat on the tank, vehicle clearance and stored items crowding the tank"
+     ],
+     [
+      "Side yard enclosure",
+      "Frees interior space and keeps salt bags outside",
+      "Weather exposure, a need for a covered base, power run to the unit, and tamper risk"
+     ],
+     [
+      "Utility closet",
+      "Protected from temperature swings, close to the water heater",
+      "Tight clearance for salt filling, drain access may require a pump"
+     ],
+     [
+      "Laundry room",
+      "Standpipe drain already there for the washer",
+      "Longer pipe runs from the main, noise during regeneration"
+     ],
+     [
+      "Under a stairwell or interior nook",
+      "Out of sight and out of the weather",
+      "Hard to refill, hard to reach the drain, so ask before choosing it"
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "checklist",
+   "h2": "What the installer needs within reach",
+   "items": [
+    {
+     "t": "Straight run of main line",
+     "d": "A few feet of accessible pipe for the inlet, outlet and bypass assembly. A cramped corner can force extra fittings."
+    },
+    {
+     "t": "A drain that meets the air gap",
+     "d": "Regeneration water has to leave through a drain or standpipe, not a hose dropped in a bucket."
+    },
+    {
+     "t": "Grounded outlet nearby",
+     "d": "The timer or meter head runs on a small plug-in transformer, so an outlet within cord length saves an electrician visit."
+    },
+    {
+     "t": "Firm, level floor",
+     "d": "A filled brine tank is heavy, and the resin tank must stand upright without rocking."
+    },
+    {
+     "t": "Room to open the lid",
+     "d": "You will add salt regularly, so leave a clear arm's length on top."
+    }
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Bypass valves and outdoor hose bibs",
+   "paras": [
+    "A bypass valve lets water skip the softener during repairs or if the unit fails. Make sure everyone in the household knows where it is and which position means treated water. Ask the installer to label both positions with tape on the first day.",
+    "Outdoor faucets are another detail. Plumbing the softener before the outside lines means your lawn hose and car-wash bucket draw salty softened water, which wastes salt and capacity. A good layout feeds the hose bibs from the untreated side, so you only soften the water you actually bathe and wash with."
+   ],
+   "bullets": [
+    "Keep a cold-water tap in the kitchen on the softened line only if you are comfortable with the added sodium",
+    "Ask whether a separate drinking-water filter makes more sense for taste",
+    "Choose a salt type recommended in the manual and keep the lid dry"
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Who handles what on installation day",
+   "paras": [
+    "A plumber cuts into the main, sets the bypass, runs the drain and programs the head to match your water. For ordinary equipment installation we treat this under [[water-softener-filtration|water softener and filtration]] work, and the connection tie-ins fall into regular [[plumbing-installation|plumbing installation]]. Whether a permit applies is for City building staff to answer.",
+    "Before you buy a unit, get the actual hardness number for your address from the utility report, not a rule of thumb. An oversized system wastes salt and an undersized one runs out of capacity mid-week."
+   ]
+  }
+ ],
+ "localnote": {
+  "h2": "Oakley water numbers and your softener choice",
+  "source_type": "Diablo Water District 2025 Annual Water Quality Report",
+  "paras": [
+   "Water in the District averages about 7 grains per gallon of hardness, so a softener has real work to do at any of the locations below. On the usual scale that sits at the low end of hard, so a softener is a comfort and appliance-life choice, not an emergency. The practical step is to size the unit using that grains figure and your household's water use.",
+   "The same report gives average sodium of 59 mg/L, with a range of 48 to 77 mg/L, before any softener adds its own. Anyone on a sodium-restricted diet should ask a doctor and consider keeping one drinking tap on untreated water. You can request the full report from the District at 87 Carol Lane or through its website."
+  ]
+ },
+ "faqs": [
+  {
+   "q": "Can a softener be installed outdoors?",
+   "a": [
+    "Yes, in a covered, level enclosure that protects the control head from sun and rain. Outdoor installs also need a drain for regeneration water and a protected power source."
+   ]
+  },
+  {
+   "q": "Does the softener go before or after the water heater?",
+   "a": [
+    "Before it. The heater is the fastest place for scale to form, so soft water should reach it first. Only the hot and cold lines you want treated should come off the softened side."
+   ]
+  },
+  {
+   "q": "How close does it need to be to a drain?",
+   "a": [
+    "Close enough for a short, sloped drain line with an air gap. If the nearest drain is far, a condensate-style pump can lift the discharge, which adds cost and one more part to maintain."
+   ]
+  },
+  {
+   "q": "Will I need to leave the garage free for salt deliveries?",
+   "a": [
+    "You mainly need an arm's length of clear space to pour bags in. Many owners keep a small shelf nearby so bags stay off the wet floor."
+   ]
+  },
+  {
+   "q": "Is a softener worth it with Oakley water?",
+   "a": [
+    "The District's average hardness is moderate, so many households see mostly spotting and slower scale buildup. Ask a plumber to read your fixtures and water heater before deciding.",
+    "If you are shopping in the area, our [[plumber-brentwood-ca|Brentwood]] page covers a neighboring system with a different water supplier, and the [[service-area|service area]] list shows where we work.",
+    "Compare the grains figure on your own report with any manufacturer's capacity chart.",
+    "Walking the proposed spot with the installer before anything is bought is far easier than moving a finished installation."
+   ],
+   "kind": "local"
+  }
+ ],
+ "cta_mid": "Not sure which wall or corner fits a softener? Book a short visit to look at your main line and drain.",
+ "cta_end": "Send us a photo of where your supply line enters and we will talk through placement options.",
+ "side": {
+  "h3": "Softener install questions",
+  "copy": "Tell us where the main line enters and we will plan the tie-in and drain.",
+  "link": "water-softener-filtration",
+  "link_text": "Softener and filtration"
+ }
+}

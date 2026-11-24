@@ -1,0 +1,85 @@
+{
+ "slug": "service-area",
+ "meta": "Plumber service area: Oakley, Brentwood, Antioch, Knightsen and Bethel Island, CA, with ZIP codes and local utility notes. Call (888) 910-8644 any hour.",
+ "lead": [
+  "Oakley 24/7 Plumbing takes calls for Oakley, CA and four nearby communities in eastern Contra Costa County: Oakley, Brentwood, Antioch, Knightsen and Bethel Island."
+ ],
+ "intro": [
+  "Each town has its own water and sewer arrangements, its own ZIP code and its own mix of plumbing calls. This page explains what changes from place to place so you know who to ask about a leak, a backup or a permit."
+ ],
+ "sections": [
+  {
+   "kind": "prose",
+   "h2": "Oakley, ZIP 94561",
+   "paras": [
+    "Oakley is the main service city. The city incorporated on July 1, 1999, has about 43,357 residents, and sits at roughly 20 feet above sea level, with SR-160 along its western edge and the Sacramento-San Joaquin Delta to the north. Most of its housing went up from the 1980s onward, so a plumber should identify your supply pipe material on site instead of guessing from the street.",
+    "Diablo Water District supplies Oakley's drinking water and looks after the line up to each meter, while Ironhouse Sanitary District handles the public sewer. For a backup, our [[drain-cleaning|drain cleaning]] page explains what we clear, and City Hall at 3231 Main Street handles permit questions."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Neighborhoods in Oakley",
+   "paras": [
+    "Some parts of Oakley raise their own plumbing questions, so we wrote a page for each. [[plumber-summer-lake-oakley-ca|Summer Lake]] looks at water heaters and hard water in larger homes, and [[plumber-emerson-ranch-oakley-ca|Emerson Ranch]] covers leaks and fixtures in newer houses.",
+    "[[plumber-magnolia-park-oakley-ca|Magnolia Park]] explains who handles the meter and the line to your house, [[plumber-cypress-grove-oakley-ca|Cypress Grove]] separates the private sewer lateral from the public main, and [[plumber-downtown-oakley-ca|Downtown Oakley]] covers shops, offices and homes near Main Street."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Brentwood, ZIP 94513",
+   "paras": [
+    "Brentwood adjoins Oakley on Oakley's south. It incorporated in 1948, has about 64,292 residents, and has grown from orchard and farm country into a suburb, with an agricultural core of about 11,000 acres still wrapped around three sides. Landmarks such as the Delta Theater downtown and Streets of Brentwood help when you need to explain where you are.",
+    "The City of Brentwood runs its own water system, so questions about a meter or a street main go there, not to Oakley's district. Our [[plumber-brentwood-ca|Brentwood page]] covers the calls we see in that city, from blocked mains to failed water heaters."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Antioch, ZIPs 94509 and 94531",
+   "paras": [
+    "Antioch lies directly west of Oakley on the San Joaquin River, at the western end of the Delta. It incorporated in 1872 and has about 115,291 residents spread over two ZIP codes, 94509 and 94531. Rising salinity has limited how much it can draw from its river intake, and the city has been working on a surface-water desalination plant.",
+    "Because Antioch manages its own water, ask your provider about taste or hardness rather than assuming it matches Oakley's. Hidden pipe leaks and drain stoppages are handled the same way as anywhere else, starting with [[leak-detection|leak detection]]."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Knightsen, ZIP 94548",
+   "paras": [
+    "Knightsen is an unincorporated community in Contra Costa County with about 1,596 residents. It is rural and agricultural, with almonds, walnuts, sunflower seeds and horse ranches, and it is the community closest to Oakley.",
+    "Rural homes can sit a long way from the road, so give the dispatcher the driveway description and any gate code. Ask your water and sewer provider whether your property is connected to a public system before a repair, since that decides what the work involves."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Bethel Island, ZIP 94511",
+   "paras": [
+    "Bethel Island is an island in the Delta with about 2,131 residents, ringed by sloughs and protected by earthen levees, with 13 commercial marinas. The only road access is the bridge from Bethel Island Road to Cypress Road in Oakley, and the Bethel Island Municipal Improvement District governs the community.",
+    "Ironhouse Sanitary District handles sewer service there, as in Oakley, so the owner of a private lateral is responsible for overflows and cleanup from that line. Tell the dispatcher you are on the island so the route over the bridge is planned before anyone leaves."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "How to tell which page applies to you",
+   "paras": [
+    "Start with your ZIP code. Oakley addresses use 94561, Brentwood uses 94513, Knightsen uses 94548, Bethel Island uses 94511 and Antioch uses 94509 or 94531. If you are not sure, the envelope from your water bill shows your mailing city, and the [[plumber-brentwood-ca|Brentwood page]] covers the one neighboring city with its own dedicated write-up.",
+    "Mailing city and utility district do not always match. A Knightsen address may sit outside any city, while a Bethel Island home lives on an island reached by a single bridge from Cypress Road in Oakley. When you call, give the street address so dispatch can plan the drive, and mention anything unusual about access."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "What to have ready when you call from outside Oakley",
+   "paras": [
+    "Have the street address, the nearest cross street, and the fixture or room affected. If water is moving, say so first, because shutting off the main valve is the first step whatever the town. Dispatch will talk you through it while the visit is arranged.",
+    "Also say whether you rent or own. A renter usually needs the landlord or property manager to approve major work, and an owner can approve it on the spot. Our [[contact|contact page]] lists what else helps, including who to name as the on-site contact if you will not be home."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "If your town is not listed",
+   "paras": [
+    "We do not promise service outside these five communities, but call and ask. The dispatcher can tell you honestly whether the address is something we cover. Our [[contact|contact page]] lists the phone number and what to have ready."
+   ]
+  }
+ ],
+ "cta_mid": "Not sure which side of the line your address falls on? Call and the dispatcher will confirm it in a minute.",
+ "cta_end": "From Oakley's Laurel Road out to the Delta islands, one call tells you whether we can come."
+}

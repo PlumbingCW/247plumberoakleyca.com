@@ -1,0 +1,67 @@
+{
+ "slug": "terms",
+ "meta": "Terms of service for Oakley 24/7 Plumbing: how phone bookings, prices, scheduling, website content and call recording work for customers in Oakley, CA.",
+ "lead": [
+  "These terms describe how Oakley 24/7 Plumbing works with customers who call us or use this website."
+ ],
+ "intro": [
+  "By calling us, booking a visit or using this site, you agree to these terms. They are written in plain language, and a dispatcher can explain any part of them."
+ ],
+ "sections": [
+  {
+   "kind": "prose",
+   "h2": "Booking by phone",
+   "paras": [
+    "Service is arranged by phone. A dispatcher records your address, the problem and a number where you can be reached, and then schedules a visit. Calls to our line may be recorded for quality and training purposes.",
+    "Emergency dispatch runs 24/7, and same-day appointments are offered when available. We do not promise a particular arrival time, because the schedule and the job in progress can change."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Prices and approval",
+   "paras": [
+    "You receive a clear price before work starts, and work begins only after you approve it. If the plumber finds something that changes the scope, such as a second failed pipe behind the first, the work pauses until you have heard and agreed to the revised price.",
+    "Payment terms are explained with the price, before you approve the job."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Your responsibilities",
+   "paras": [
+    "You confirm that you own the property or have the owner's permission to order work. Please give accurate information about the problem and the property, provide safe access, secure pets, and tell us about hazards such as standing water near electrical outlets.",
+    "If you smell gas, leave the building and call 911 and then PG&E before calling us. Permit questions belong with your city's building division, so ask the City before work that may need one."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Cancelling or rescheduling",
+   "paras": [
+    "If you need to cancel or move an appointment, call as early as you can. Telling the dispatcher your plans helps free the slot for another customer in need. If a plumber arrives and cannot reach the work area, the visit may need to be rebooked, and the dispatcher will explain what applies before anything is charged."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Website content",
+   "paras": [
+    "The pages on this site give general information about plumbing and are not professional advice for your particular property. A repair option described online may not suit your house, which is why the on-site visit decides the work.",
+    "Descriptions of local utilities and agencies reflect the information available when the pages were written, so confirm details with the agency itself."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Limits of liability",
+   "paras": [
+    "To the extent California law allows, we are not responsible for losses that come from information on this website, from conditions we could not see before opening a wall or floor, or from delays caused by events outside our control. Nothing in these terms limits rights that the law gives you and that cannot be waived."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Changes and questions",
+   "paras": [
+    "We may update these terms, and the current version will always be on this page. Questions can be sent to contact@247plumberoakleyca.com or raised on the phone at any hour. These terms are governed by California law."
+   ]
+  }
+ ],
+ "cta_mid": "If a point in these terms is unclear, call the dispatch line and ask before you book a visit.",
+ "cta_end": "Questions about these terms are welcome by phone or email, and we will answer them plainly."
+}

@@ -1,0 +1,126 @@
+{
+ "meta": "Plumber for Downtown Oakley, CA: shops, offices and homes near Main Street, with drain clearing, camera inspection and after-hours help. Call (888) 910-8644.",
+ "lead": [
+  "Plumbing help for Downtown Oakley, CA, where shops, offices and homes sit close together around Main Street. Call to describe the problem and arrange a visit."
+ ],
+ "intro": [
+  "Downtown Oakley is the commercial and civic center of the city, ZIP 94561. The City of Oakley's offices are at 3231 Main Street, and the Main Street corridor was rebuilt with new sidewalks, drainage, sanitary sewer work and lighting. That work won a 2018 regional public works award.",
+  "A mixed district calls for a different angle than a housing tract. Businesses need minimal downtime, and the homes nearby need the usual repairs. This page covers both."
+ ],
+ "sections": [
+  {
+   "kind": "prose",
+   "h2": "A mixed district: homes, shops and offices",
+   "paras": [
+    "Downtown buildings differ widely in age and use. We do not assume any particular pipe material from the address. A technician identifies it on site, and a camera run through a drain shows its real condition.",
+    "A restaurant, a salon and a house all use water differently. Grease, hair and wipes cause very different blockages, so the first question is always what the building is used for."
+   ]
+  },
+  {
+   "kind": "compare",
+   "h2": "What different Downtown properties usually call about",
+   "paras": [
+    "A starting point for describing your situation to dispatch."
+   ],
+   "table": {
+    "head": [
+     "Property type",
+     "Common call",
+     "First step"
+    ],
+    "rows": [
+     [
+      "Restaurant or cafe",
+      "Slow floor drains, grease in the line",
+      "Clear the line, then review grease handling, see [[hydro-jetting|hydro jetting]]"
+     ],
+     [
+      "Salon or barber shop",
+      "Hair and product in sink drains",
+      "Cable the branch drain"
+     ],
+     [
+      "Office or retail unit",
+      "Restroom fixture leaks and running toilets",
+      "See [[commercial-plumbing|commercial plumbing]]"
+     ],
+     [
+      "Apartment or house nearby",
+      "Water heater, faucet or drain",
+      "See [[water-heater-repair|water heater repair]] and [[faucet-repair|faucet repair]]"
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "prose",
+   "h2": "Commercial tenants: know who owns the pipe",
+   "paras": [
+    "In a shared building, the landlord often controls the main drain and the water supply, and the tenant controls the fixtures inside the unit. Check your lease before authorizing work, and tell the landlord when a main line is involved.",
+    "When a drain is slow throughout a building, a camera inspection finds out whether the blockage is in your branch or the building's main line, and see [[sewer-inspection|sewer inspection]] for how that works."
+   ]
+  },
+  {
+   "kind": "checklist",
+   "h2": "Getting a Downtown visit set up",
+   "paras": [
+    "A few details make it faster."
+   ],
+   "items": [
+    {
+     "t": "Give the cross street",
+     "d": "Name the nearest cross street to Main Street, and the suite number if it is a shared building."
+    },
+    {
+     "t": "Say who can approve work",
+     "d": "A tenant may need the landlord or property manager to approve repairs."
+    },
+    {
+     "t": "Mention business hours",
+     "d": "If the work must happen outside opening hours, say so when you call."
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do you work on commercial plumbing in Downtown Oakley?",
+   "a": [
+    "Yes. Dispatch takes calls for businesses as well as homes in Oakley. Describe the building, the fixture and what you see."
+   ]
+  },
+  {
+   "q": "Can work be scheduled outside business hours?",
+   "a": [
+    "Tell dispatch when the building is closed. Availability depends on the day, so ask on the call."
+   ]
+  },
+  {
+   "q": "Who pays for a main line blockage in a shared building?",
+   "a": [
+    "That depends on the lease. The landlord often owns the main line and the tenant owns fixtures inside the unit. Check the lease and tell the landlord."
+   ]
+  },
+  {
+   "q": "Why do restaurants have recurring drain trouble?",
+   "a": [
+    "Grease cools and hardens in the line, and food solids add to it. Regular cleaning and a camera check find buildup before it blocks."
+   ]
+  },
+  {
+   "q": "Do I need a permit for a repair Downtown?",
+   "a": [
+    "Some jobs do, such as replacing a water heater or changing piping, and others do not. The City of Oakley building division at 3231 Main Street can tell you for your job."
+   ]
+  }
+ ],
+ "cta_mid": "Drain backing up in a Downtown shop or home? Stop using the fixture and call dispatch to describe it.",
+ "cta_end": "Need plumbing help for a Downtown business or home? Call dispatch and describe the building and the problem.",
+ "side": {
+  "h3": "Downtown Oakley",
+  "copy": "Tell us the building type, the cross street and what you see.",
+  "link": "commercial-plumbing",
+  "link_text": "Read about commercial plumbing"
+ },
+ "slug": "plumber-downtown-oakley-ca"
+}

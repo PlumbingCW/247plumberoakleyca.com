@@ -1,0 +1,594 @@
+{
+ "services": [
+  {
+   "slug": "water-heater-replacement",
+   "kind": "service",
+   "name": "Water Heater Replacement",
+   "emergency": true,
+   "title": "Emergency Water Heater Replacement in Oakley, CA | 24/7",
+   "h1": "Emergency Water Heater Replacement in Oakley, CA",
+   "blurb": "Failed tank, cold showers, a leak at the base: replace it the same day when parts allow.",
+   "group": "Water Heaters",
+   "clusters": [
+    "TIER A water heater leak (73 calls; leaking tank, puddle, garage/closet location, replace vs repair)",
+    "TIER C no hot water (8 calls, 6 urgent)",
+    "TIER D FAQ lines: replacing gas with heat pump, water heater flood/replacement"
+   ],
+   "solution_gap": false,
+   "notes": "Cover BAAQMD zero-NOx gas water heater status and H&SC 19211 strapping, permit via City of Oakley (ask), tank vs tankless vs heat pump choice, what failure looks like. Sibling pages: repair, installation, tankless."
+  },
+  {
+   "slug": "drain-cleaning",
+   "kind": "service",
+   "name": "Drain Cleaning",
+   "emergency": true,
+   "title": "Emergency Drain Cleaning in Oakley, CA | 24/7 Response",
+   "h1": "Emergency Drain Cleaning in Oakley, CA",
+   "blurb": "Snaking, cabling and clog clearing for kitchen, bath, laundry and main lines.",
+   "group": "Drains and Sewer",
+   "clusters": [
+    "TIER A drain cleaning (62)",
+    "TIER A clogged drain / unclog (61)",
+    "TIER A drain snaking / cabling (25, 40% urgent)",
+    "TIER A kitchen / sink drain clog (20) = dedicated section",
+    "TIER C drain line leak (6) = one paragraph",
+    "TIER D FAQ: yard drain, French drain, mainline clog, laundry sink"
+   ],
+   "solution_gap": false,
+   "notes": "One page covers drain cleaning + clogged drain + snaking (intent group). Do NOT cover hydro jetting or sewer camera in depth (own pages). Mention Ironhouse lateral ownership."
+  },
+  {
+   "slug": "water-heater-repair",
+   "kind": "service",
+   "name": "Water Heater Repair",
+   "emergency": true,
+   "title": "Emergency Water Heater Repair in Oakley, CA | 24/7 Response",
+   "h1": "Emergency Water Heater Repair in Oakley, CA",
+   "blurb": "Pilot, thermostat, element, valve and leak diagnosis for tank and tankless units.",
+   "group": "Water Heaters",
+   "clusters": [
+    "TIER A water heater leak (73)",
+    "TIER C no hot water (8, 75% urgent)",
+    "SECTION (not a page): hybrid / electric / gas water heater repair differences",
+    "TIER D FAQ: error codes, service and flush, tank not heating"
+   ],
+   "solution_gap": false,
+   "notes": "Repair-existing intent only; when to stop repairing and replace (age, tank leak). Link to replacement page."
+  },
+  {
+   "slug": "leak-detection",
+   "kind": "service",
+   "name": "Leak Detection",
+   "emergency": true,
+   "title": "Emergency Leak Detection in Oakley, CA | 24/7 Response",
+   "h1": "Emergency Leak Detection in Oakley, CA",
+   "blurb": "Meter checks, acoustic listening and thermal tracing to find hidden leaks without tearing out walls.",
+   "group": "Leaks and Pipes",
+   "clusters": [
+    "TIER A leak detection (137; THE cluster owner)",
+    "TIER A water meter / high-bill leak (47) = dedicated section 'meter still running / high bill'",
+    "TIER A water service line leak (42) = dedicated section; DWD responsibility ends at the meter",
+    "TIER A ceiling / wall leak (23) = section",
+    "TIER A under-house / crawlspace leak (21) = section",
+    "TIER A underground / buried line leak (15) = section",
+    "TIER B irrigation / sprinkler leak (14) = paragraph",
+    "TIER C pool / spa leak (9) = one paragraph only",
+    "TIER C yard / meter-box leak (6) = one paragraph",
+    "TIER D FAQ: attic leak, outdoor leak, commercial"
+   ],
+   "solution_gap": true,
+   "notes": "SOLUTION-GAP: needs a symptom-phrased H2 right after the intro and a symptom FAQ. Do not re-cover slab leaks in depth (own page). Use DWD/meter facts and Oct 2024 Cypress Rd sewer break only if it fits (it is a public sewer, so use it to explain public vs private)."
+  },
+  {
+   "slug": "slab-leak-repair",
+   "kind": "service",
+   "name": "Slab Leak Repair",
+   "emergency": true,
+   "title": "Emergency Slab Leak Repair in Oakley, CA | 24/7 Response",
+   "h1": "Emergency Slab Leak Repair in Oakley, CA",
+   "blurb": "Warm floor spots, a running meter and sounds under the slab, traced and repaired.",
+   "group": "Leaks and Pipes",
+   "clusters": [
+    "TIER A slab leak (46, 41% urgent)",
+    "Water-heater-at-slab-edge and garage cases from the call data (paraphrase)"
+   ],
+   "solution_gap": true,
+   "notes": "SOLUTION-GAP (symptom H2 + FAQ). Do not claim Oakley homes are slab or not; say 'if your home is on a concrete slab'. Repair options: spot repair via access, reroute, repipe; honest trade-offs."
+  },
+  {
+   "slug": "burst-pipe-repair",
+   "kind": "service",
+   "name": "Burst Pipe Repair",
+   "emergency": true,
+   "title": "Emergency Burst Pipe Repair in Oakley, CA | 24/7 Response",
+   "h1": "Emergency Burst Pipe Repair in Oakley, CA",
+   "blurb": "Shut off, stop the flood, then repair or replace the failed section.",
+   "group": "Leaks and Pipes",
+   "clusters": [
+    "TIER A cracked / broken pipe repair (28, 50% urgent)",
+    "TIER C pipe leak repair (8, 100% urgent)",
+    "TIER C copper pipe repair (8)",
+    "TIER C burst pipe repair (7)",
+    "TIER C drain pipe repair (9)",
+    "TIER B leak repair (12)"
+   ],
+   "solution_gap": false,
+   "notes": "Emergency-first: shutoff valve steps, where Oakley homeowners find main shutoff, DWD responsibility boundary at the meter. Copper vs PEX vs CPVC repair methods in general terms."
+  },
+  {
+   "slug": "hydro-jetting",
+   "kind": "service",
+   "name": "Hydro Jetting",
+   "emergency": true,
+   "title": "Emergency Hydro Jetting in Oakley, CA | 24/7 Response",
+   "h1": "Emergency Hydro Jetting in Oakley, CA",
+   "blurb": "High-pressure water scouring for roots, grease and repeat clogs in main lines.",
+   "group": "Drains and Sewer",
+   "clusters": [
+    "TIER A hydro jetting (25, 52% urgent)"
+   ],
+   "solution_gap": true,
+   "notes": "SOLUTION-GAP: symptom H2 'drain keeps clogging again' + FAQ. Differentiate from drain cleaning (cable) and sewer cleaning. Only after camera when the line is structurally sound."
+  },
+  {
+   "slug": "sewer-line-repair",
+   "kind": "service",
+   "name": "Sewer Line Repair",
+   "emergency": true,
+   "title": "Emergency Sewer Line Repair in Oakley, CA | 24/7 Response",
+   "h1": "Emergency Sewer Line Repair in Oakley, CA",
+   "blurb": "Spot repair, trenchless lining and replacement for cracked, rooted or belly sewer laterals.",
+   "group": "Drains and Sewer",
+   "clusters": [
+    "TIER A sewer line repair (52)",
+    "TIER A sewer backup (23)",
+    "TIER B septic service (13) = section (only if on septic; Oakley is sewered by Ironhouse)",
+    "TIER C sewer drain cleaning (9) / main sewer cleaning (6) mention only",
+    "TIER D FAQ: lateral replacement, epoxy lining under slab, cast iron pipe repair (cast iron repair is a SECTION here)"
+   ],
+   "solution_gap": false,
+   "notes": "Repair/replace intent. Cover trenchless pipe lining content (sewer pipe lining). Ironhouse lateral ownership + CCTV Compliance Certificate triggers + civil engineer plans are the key local section."
+  },
+  {
+   "slug": "sewer-line-cleaning",
+   "kind": "service",
+   "name": "Sewer Line Cleaning",
+   "emergency": true,
+   "title": "Emergency Sewer Line Cleaning in Oakley, CA | 24/7 Response",
+   "h1": "Emergency Sewer Line Cleaning in Oakley, CA",
+   "blurb": "Main line clearing when every drain in the house is slow or backing up.",
+   "group": "Drains and Sewer",
+   "clusters": [
+    "TIER C main sewer cleaning (6, 50% urgent)",
+    "TIER C sewer drain cleaning (9)",
+    "TIER A sewer backup (23) shared: focus on clearing the blockage, not repair",
+    "TIER D FAQ: grease buildup, root clearing, cleanout location"
+   ],
+   "solution_gap": false,
+   "notes": "Intent: clear a blocked main line NOW and keep it flowing (cleanout, cable machine, maintenance). Do NOT duplicate repair page. Mention storm drain and grease trap cleaning as sections."
+  },
+  {
+   "slug": "sewer-inspection",
+   "kind": "service",
+   "name": "Sewer Inspection (Camera)",
+   "emergency": false,
+   "title": "Sewer Camera Inspection in Oakley, CA | Oakley 24/7 Plumbing",
+   "h1": "Sewer Camera Inspection in Oakley, CA",
+   "blurb": "See inside the lateral before a sale, a repair or a repeat backup.",
+   "group": "Drains and Sewer",
+   "clusters": [
+    "TIER D FAQ: sewer camera / locate (2)",
+    "Conversion note: planned service, standard title"
+   ],
+   "solution_gap": true,
+   "notes": "Planned service, NO emergency framing. Key local section: ISD Compliance Certificate CCTV triggers (sale of property 20+ years old, building permit $25,000+, repairs). Explain what a camera report shows and does not."
+  },
+  {
+   "slug": "tankless-water-heater",
+   "kind": "service",
+   "name": "Tankless Water Heater",
+   "emergency": false,
+   "title": "Tankless Water Heater in Oakley, CA | Oakley 24/7 Plumbing",
+   "h1": "Tankless Water Heater Service in Oakley, CA",
+   "blurb": "Install, repair, flush and descale on-demand heaters.",
+   "group": "Water Heaters",
+   "clusters": [
+    "TIER A tankless flush / descale (22, 0 urgent) = dedicated section",
+    "TIER A tankless water heater (21, 0 urgent)"
+   ],
+   "solution_gap": true,
+   "notes": "Planned service, standard title. Hardness 124 mg/L average (DWD) drives descaling; BAAQMD rule. Symptom bridge: 'hot water runs out / error code' H2."
+  },
+  {
+   "slug": "water-heater-installation",
+   "kind": "service",
+   "name": "Water Heater Installation",
+   "emergency": false,
+   "title": "Water Heater Installation in Oakley, CA | Oakley 24/7",
+   "h1": "Water Heater Installation in Oakley, CA",
+   "blurb": "Planned installs: sizing, venting, strapping, expansion tank and permit coordination.",
+   "group": "Water Heaters",
+   "clusters": [
+    "Planned install intent (no emergency framing)",
+    "TIER D FAQ: gas to heat pump conversion"
+   ],
+   "solution_gap": false,
+   "notes": "Sizing, venting, gas vs electric vs heat pump, H&SC 19211 strapping, BAAQMD, permit via City (ask). Differentiate from replacement page (emergency/failed tank)."
+  },
+  {
+   "slug": "repiping",
+   "kind": "service",
+   "name": "Repiping",
+   "emergency": false,
+   "title": "Repiping in Oakley, CA | Whole-House Pipe Replacement",
+   "h1": "Repiping in Oakley, CA",
+   "blurb": "Whole-house supply line replacement for leaking, corroded or low-pressure plumbing.",
+   "group": "Leaks and Pipes",
+   "clusters": [
+    "TIER B repipe / galvanized replacement (14)",
+    "TIER B low water pressure (13) = section",
+    "TIER D FAQ: whole house repipe estimate, galvanized"
+   ],
+   "solution_gap": false,
+   "notes": "Planned. Inside-the-house supply only (not the service line to meter). Pipe materials in general terms: copper, PEX. Lead/copper DWD results can be mentioned. Pressure section."
+  },
+  {
+   "slug": "plumbing-installation",
+   "kind": "service",
+   "name": "Plumbing Installation",
+   "emergency": false,
+   "title": "Plumbing Installation in Oakley, CA | Oakley 24/7 Plumbing",
+   "h1": "Plumbing Installation in Oakley, CA",
+   "blurb": "Fixtures, supply and drain runs, remodels and new-construction rough-in.",
+   "group": "Installations",
+   "clusters": [
+    "TIER B plumbing installation (10)",
+    "TIER C new construction plumbing (5)",
+    "TIER C sump / ejector pump (9) = one paragraph",
+    "TIER B gas leak (11) + gas line inspection/install (10) => SAFETY-FIRST section (leave building, 911, PG&E 1-800-743-5000, THEN plumber) because no Gas Line page exists"
+   ],
+   "solution_gap": false,
+   "notes": "Planned. Permit/inspection: ask City of Oakley Building Division. Include gas safety section."
+  },
+  {
+   "slug": "toilet-repair",
+   "kind": "service",
+   "name": "Toilet Repair & Installation",
+   "emergency": true,
+   "title": "Emergency Toilet Repair in Oakley, CA | 24/7 Response",
+   "h1": "Emergency Toilet Repair in Oakley, CA",
+   "blurb": "Overflows, leaks at the base, running tanks, wax rings and full replacements.",
+   "group": "Fixtures",
+   "clusters": [
+    "TIER A toilet repair / install (47)",
+    "TIER C toilet leak / running toilet (6, 67% urgent)",
+    "TIER D FAQ: wax ring, fill valve, toilet supply valve"
+   ],
+   "solution_gap": false,
+   "notes": "Cover flange/wax ring, fill valve/flapper, clogs vs backups (backup in several fixtures = sewer, link to sewer cleaning), replacing."
+  },
+  {
+   "slug": "faucet-repair",
+   "kind": "service",
+   "name": "Faucet & Sink Repair",
+   "emergency": true,
+   "title": "Emergency Faucet & Sink Repair in Oakley, CA | 24/7 Response",
+   "h1": "Emergency Faucet and Sink Repair in Oakley, CA",
+   "blurb": "Drips, failed shutoff valves, shower valves and bathtub fixtures.",
+   "group": "Fixtures",
+   "clusters": [
+    "TIER A faucet / valve / fixture repair (61)",
+    "TIER B burst / broken supply valve (12)",
+    "TIER C shower / tub drain clog (8)",
+    "TIER C shower valve / showerhead leak (8)",
+    "TIER C faucet repair (7)",
+    "TIER C bathtub faucet repair (5, 100% urgent)",
+    "TIER D FAQ: cartridge replacement, outdoor spigot, utility sink, jetted tub"
+   ],
+   "solution_gap": false,
+   "notes": "Fixtures page: valve will not shut off is the emergency. Include a short section for tub/shower drain clogs and valves."
+  },
+  {
+   "slug": "garbage-disposal-repair",
+   "kind": "service",
+   "name": "Garbage Disposal Repair & Installation",
+   "emergency": true,
+   "title": "Emergency Garbage Disposal Repair in Oakley, CA | 24/7",
+   "h1": "Emergency Garbage Disposal Repair in Oakley, CA",
+   "blurb": "Jams, leaks, hum-no-spin, dishwasher connection and replacement.",
+   "group": "Fixtures",
+   "clusters": [
+    "TIER A garbage disposal repair / replace (24, 46% urgent)",
+    "TIER D FAQ: dishwasher air-gap leak"
+   ],
+   "solution_gap": false,
+   "notes": "Cover jam reset, leak points (top flange, side inlet, bottom), replacement sizing, dishwasher connection. No electric/plumbing code numbers."
+  },
+  {
+   "slug": "commercial-plumbing",
+   "kind": "service",
+   "name": "Commercial Plumbing",
+   "emergency": true,
+   "title": "Emergency Commercial Plumbing in Oakley, CA | 24/7 Response",
+   "h1": "Emergency Commercial Plumbing in Oakley, CA",
+   "blurb": "After-hours leaks, drain overflows, grease traps and backflow tests for businesses.",
+   "group": "Commercial",
+   "clusters": [
+    "TIER A commercial leak detection (26; conversion note: high no-sale share, keep ONE honest section, do not over-build)",
+    "TIER B backflow testing (13) = section (DWD tests 4,500+ backflow devices a year)",
+    "SECTIONS: grease trap cleaning, storm drain cleaning",
+    "TIER D FAQ: floor drain overflow, property manager work orders"
+   ],
+   "solution_gap": false,
+   "notes": "Business-hours vs after-hours; property managers and landlords FAQ; Laurel Road and Main Street corridors may be mentioned as business areas (Laurel Plaza, Cypress Square exist per facts)."
+  },
+  {
+   "slug": "water-softener-filtration",
+   "kind": "service",
+   "name": "Water Softener & Filtration",
+   "emergency": false,
+   "title": "Water Softener & Filtration in Oakley, CA | Oakley 24/7",
+   "h1": "Water Softener and Filtration in Oakley, CA",
+   "blurb": "Hardness is 124 mg/L on average here: what softeners and filters actually do.",
+   "group": "Water Quality",
+   "clusters": [
+    "TIER A water softener / filtration (30; poor conversion, planned service, modest depth)",
+    "TIER C water conditioner repair (6)",
+    "TIER D FAQ: whole home filtration, softener valve replacement"
+   ],
+   "solution_gap": false,
+   "notes": "Regional page backed by the verified DWD hardness (87-150, avg 124 mg/L, ~7 gpg). Explain: softener location (also blog), salt-based vs filters, what filters do NOT soften, sodium 59 mg/L note, tankless/water heater scale link. Never promise health outcomes."
+  }
+ ],
+ "loc": {
+  "slug": "plumber-brentwood-ca",
+  "kind": "location",
+  "name": "Brentwood",
+  "title": "Emergency Plumber Brentwood CA 94513 | Oakley 24/7",
+  "h1": "Emergency Plumber Brentwood CA Near Oakley",
+  "zip": "94513",
+  "meta_services": [
+   "emergency drain cleaning",
+   "water heater replacement"
+  ]
+ },
+ "blogs": [
+  {
+   "slug": "gas-water-heater-installation-oakley-ca",
+   "topic": "how do i install a gas water heater (880/mo)",
+   "title": "Gas Water Heater Installation in Oakley, CA: What to Know",
+   "angle": "Homeowner reading before a gas water heater swap: why DIY gas work is risky, vent/gas connection/T&P/expansion tank/seismic strapping (H&SC 19211), BAAQMD zero-NOx status as of Oct 2026, permit (ask City 925-625-7005), PG&E gas safety. Local note = BAAQMD + H&SC + City permit + PG&E.",
+   "links": [
+    "water-heater-installation",
+    "water-heater-replacement"
+   ]
+  },
+  {
+   "slug": "tankless-water-heater-venting-oakley-ca",
+   "topic": "tankless water heater venting (720/mo)",
+   "title": "Tankless Water Heater Venting for Oakley, CA Homes",
+   "angle": "Venting types in general terms (direct vent, condensing PVC/CPVC/polypropylene vs stainless), clearances per manufacturer manual, condensate drain, combustion air, roof vs sidewall; BAAQMD status; why venting must match the unit. Local note = BAAQMD + City permit.",
+   "links": [
+    "tankless-water-heater",
+    "water-heater-installation"
+   ]
+  },
+  {
+   "slug": "toilet-shut-off-valve-repair-oakley-ca",
+   "topic": "toilet repair shut off valve (720/mo)",
+   "title": "Toilet Shut-Off Valve Repair in Oakley, CA: Owner Guide",
+   "angle": "Angle stop / supply valve: stuck, leaking at stem or connection, replacing the supply line, quarter-turn upgrade; shutting off the whole house at the main when the valve fails. Local note = where DWD responsibility ends (meter) so the main shutoff and meter valve matter.",
+   "links": [
+    "toilet-repair",
+    "faucet-repair"
+   ]
+  },
+  {
+   "slug": "water-leak-sensors-oakley-ca",
+   "topic": "sensor to detect water leaks (260/mo)",
+   "title": "Water Leak Sensors for Oakley, CA Homes: What They Catch",
+   "angle": "Point sensors vs automatic shutoff valves vs smart meters/flow monitors; where to place them (water heater, under sinks, laundry, dishwasher); limits (slab, buried lines); meter test method; DWD high-usage contact. Local note = DWD phone (925) 625-3798 and meter responsibility.",
+   "links": [
+    "leak-detection",
+    "water-heater-repair"
+   ]
+  },
+  {
+   "slug": "trenchless-pipe-lining-cost-oakley-ca",
+   "topic": "trenchless pipe lining cost (260/mo)",
+   "title": "Trenchless Pipe Lining Cost in Oakley, CA: What Sets It",
+   "angle": "Cost FACTORS only (no dollar figures): length, diameter, number of bends/cleanouts, access, pre-clean and camera, liner type, reinstating laterals, permits/engineering, restoration saved vs open trench. Local note = Ironhouse lateral program: owner pays, District permit, civil-engineer plans for private sewer work, CCTV and Compliance Certificate triggers.",
+   "links": [
+    "sewer-line-repair",
+    "sewer-inspection"
+   ]
+  },
+  {
+   "slug": "clean-plumbing-vent-oakley-ca",
+   "topic": "clean out plumbing vent (170/mo)",
+   "title": "How to Clean a Plumbing Vent on an Oakley, CA Home",
+   "angle": "Signs of a blocked vent (gurgling, slow drains, sewer smell), what vents do, roof safety, garden hose/plumber's snake method in general terms, when it is a main-line problem instead. Local note = Ironhouse is the owner/district line: vent smell vs public sewer issue; Oct 2024 Cypress Road main break as an example of a public-side problem versus a private vent.",
+   "links": [
+    "drain-cleaning",
+    "sewer-line-cleaning"
+   ]
+  },
+  {
+   "slug": "winter-plumbing-problems-oakley-ca",
+   "topic": "common winter plumbing problems (170/mo)",
+   "title": "Winter Plumbing Problems in Oakley, CA Homes",
+   "angle": "Mild Delta winters: cold-snap risk to hose bibs and exposed pipes, rain and clogged lines/cleanouts, water heaters working harder, sump/drainage, sewer backups in heavy rain, vacation shutoff; tie to levee/Delta context lightly. Local note = DWD post-repair flushing advice + Ironhouse overflow responsibility.",
+   "links": [
+    "burst-pipe-repair",
+    "drain-cleaning"
+   ]
+  },
+  {
+   "slug": "check-plumber-license-oakley-ca",
+   "topic": "SWAP: replaces off-brand topic 'cooper plumbing and mechanical' (brand-name noise). Informational query: how to check a plumber's license in California",
+   "title": "How to Check a Plumber's License in Oakley, CA",
+   "angle": "CSLB License Check (cslb.ca.gov, 1-800-321-CSLB), C-36 plumbing classification, what to read on the record (active status, bond, workers comp), written contract basics, permits; City of Oakley business license is required and permits can be issued to a CSLB-licensed contractor. DO NOT claim a dollar threshold. Local note = City of Oakley permit/business license facts. Do not reference our own license number (none).",
+   "links": [
+    "plumbing-installation",
+    "water-heater-installation"
+   ]
+  },
+  {
+   "slug": "copper-pipe-lifespan-oakley-ca",
+   "topic": "copper plumbing lifespan (170/mo)",
+   "title": "Copper Pipe Lifespan: Oakley, CA Homeowner Guide",
+   "angle": "How long copper lasts in general (varies: water chemistry, pressure, installation), pinhole leaks, green stains, blue-green water, when to repair vs repipe. Local note = DWD pH 8.0-8.6 avg 8.2, hardness avg 124 mg/L, lead/copper study results (copper 90th percentile 0.12 mg/L), 'ask a plumber to identify your pipe'. Do not assert a lifespan number as local fact.",
+   "links": [
+    "repiping",
+    "burst-pipe-repair"
+   ]
+  },
+  {
+   "slug": "water-softener-location-oakley-ca",
+   "topic": "where is a water softener installed (140/mo)",
+   "title": "Where a Water Softener Goes in an Oakley, CA Home",
+   "angle": "Installed on main supply after the shutoff and before the water heater branch, near a drain and a power outlet, garage/side yard/utility closet; bypass valve, outdoor hose bibs left on hard water; brine drain. Local note = DWD average 124 mg/L (~7 gpg), range 87-150, sodium 59 mg/L avg; ask DWD for report.",
+   "links": [
+    "water-softener-filtration",
+    "plumbing-installation"
+   ]
+  },
+  {
+   "slug": "slab-leak-detection-oakley-ca",
+   "topic": "slab water leak detection (90/mo)",
+   "title": "Slab Leak Detection in Oakley, CA: Signs and Next Steps",
+   "angle": "Signs (warm floor spot, meter spins with fixtures off, hissing, water on slab edge, unexplained high bill), how detection works (meter test, acoustic, thermal, tracer gas), what to do first, insurance documentation. Local note = DWD meter/service line boundary; say 'if your home is on a concrete slab'.",
+   "links": [
+    "slab-leak-repair",
+    "leak-detection"
+   ]
+  },
+  {
+   "slug": "on-demand-hot-water-heater-install-oakley-ca",
+   "topic": "on demand hot water heater install (90/mo)",
+   "title": "On-Demand Hot Water Heater Install in Oakley, CA: Guide",
+   "angle": "Not a venting post: focus on gas line capacity, electrical capacity (panel and circuit), flow rate vs fixtures, recirculation, descaling plan, cold-water sandwich, install steps and who does what, permit. Local note = DWD hardness 124 mg/L and BAAQMD; City permit via online portal.",
+   "links": [
+    "tankless-water-heater",
+    "water-heater-installation"
+   ]
+  },
+  {
+   "slug": "toilet-fill-valve-flapper-oakley-ca",
+   "topic": "how to install a toilet fill valve and flapper (90/mo)",
+   "title": "Toilet Fill Valve and Flapper Replacement, Oakley, CA",
+   "angle": "Inside-the-tank parts only (not the wall supply valve): running toilet diagnosis (dye test), flapper vs fill valve vs flush valve seat, steps, water level, when to call. Local note = DWD water chemistry (hardness, pH) and mineral buildup on valves; DWD water usage/high-bill tip.",
+   "links": [
+    "toilet-repair",
+    "leak-detection"
+   ]
+  },
+  {
+   "slug": "110v-tankless-water-heater-oakley-ca",
+   "topic": "110 v tankless water heater (70/mo)",
+   "title": "110V Tankless Water Heater in Oakley, CA: What It Can Run",
+   "angle": "What plug-in 110/120V point-of-use units can and cannot do (small flow, handwash/sink), vs 240V whole-house electric and gas; temperature rise; incoming water temperature; when to use; why not for showers. Local note = no numbers on local groundwater temp; DWD hardness and scale; City permit ask.",
+   "links": [
+    "tankless-water-heater",
+    "water-heater-installation"
+   ]
+  },
+  {
+   "slug": "acid-drain-cleaner-danger-oakley-ca",
+   "topic": "acid for clogged drains (50/mo)",
+   "title": "Acid Drain Cleaners: Why to Skip Them in Oakley, CA Homes",
+   "angle": "Why sulfuric-acid and caustic drain openers are hazardous (burns, fumes, pipe damage, mixing, standing chemical when plumber arrives), what to use instead (plunger, hand auger, enzyme maintenance), when to call, tell the plumber what you poured. Local note = Ironhouse: chemicals flow to the district system and the owner is responsible for the private line; call ISD (925) 625-2279 for sewer questions.",
+   "links": [
+    "drain-cleaning",
+    "hydro-jetting"
+   ]
+  }
+ ],
+ "standard": [
+  {
+   "slug": "about",
+   "kind": "standard",
+   "title": "About Oakley 24/7 Plumbing | Oakley, CA Plumbers",
+   "h1": "About Oakley 24/7 Plumbing"
+  },
+  {
+   "slug": "contact",
+   "kind": "standard",
+   "title": "Contact Oakley 24/7 Plumbing, Oakley, CA | (888) 910-8644",
+   "h1": "Contact Oakley 24/7 Plumbing"
+  },
+  {
+   "slug": "service-area",
+   "kind": "standard",
+   "title": "Plumber Service Area: Oakley, Brentwood and Nearby CA",
+   "h1": "Oakley Plumber Service Area"
+  },
+  {
+   "slug": "privacy",
+   "kind": "standard",
+   "title": "Privacy Policy | Oakley 24/7 Plumbing",
+   "h1": "Privacy Policy"
+  },
+  {
+   "slug": "terms",
+   "kind": "standard",
+   "title": "Terms of Service | Oakley 24/7 Plumbing",
+   "h1": "Terms of Service"
+  },
+  {
+   "slug": "blog",
+   "kind": "hub",
+   "title": "Oakley, CA Plumbing Blog | Oakley 24/7 Plumbing",
+   "h1": "Oakley Plumbing Blog"
+  },
+  {
+   "slug": "services",
+   "kind": "hub",
+   "title": "Plumbing Services in Oakley, CA | Oakley 24/7 Plumbing",
+   "h1": "Plumbing Services in Oakley, CA"
+  }
+ ],
+ "home": {
+  "slug": "",
+  "kind": "home",
+  "title": "Emergency Plumber in Oakley, CA | 24/7 Plumbing Services",
+  "h1": "Emergency Plumber in Oakley, CA"
+ },
+ "hoods": [
+  {
+   "slug": "plumber-summer-lake-oakley-ca",
+   "name": "Summer Lake",
+   "title": "Plumber in Summer Lake, Oakley, CA | Oakley 24/7 Plumbing",
+   "h1": "Plumber in Summer Lake, Oakley, CA",
+   "teaser": "Water heaters and hard water in larger family homes"
+  },
+  {
+   "slug": "plumber-emerson-ranch-oakley-ca",
+   "name": "Emerson Ranch",
+   "title": "Plumber in Emerson Ranch, Oakley, CA | Oakley 24/7 Plumbing",
+   "h1": "Plumber in Emerson Ranch, Oakley, CA",
+   "teaser": "Leaks and fixtures in newer homes"
+  },
+  {
+   "slug": "plumber-magnolia-park-oakley-ca",
+   "name": "Magnolia Park",
+   "title": "Plumber in Magnolia Park, Oakley, CA | Oakley 24/7 Plumbing",
+   "h1": "Plumber in Magnolia Park, Oakley, CA",
+   "teaser": "Who handles the meter, the shutoff and the line"
+  },
+  {
+   "slug": "plumber-cypress-grove-oakley-ca",
+   "name": "Cypress Grove",
+   "title": "Plumber in Cypress Grove, Oakley, CA | Oakley 24/7 Plumbing",
+   "h1": "Plumber in Cypress Grove, Oakley, CA",
+   "teaser": "Sewer lateral versus public main"
+  },
+  {
+   "slug": "plumber-downtown-oakley-ca",
+   "name": "Downtown Oakley",
+   "title": "Plumber in Downtown Oakley, CA | Oakley 24/7 Plumbing",
+   "h1": "Plumber in Downtown Oakley, CA",
+   "teaser": "Shops, offices and homes near Main Street"
+  }
+ ]
+}

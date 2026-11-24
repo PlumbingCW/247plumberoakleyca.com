@@ -1,0 +1,180 @@
+{
+ "slug": "check-plumber-license-oakley-ca",
+ "meta": "Check a plumber's license in California with the CSLB License Check tool. See what to read, what to ask and the red flags in Oakley, CA. Call (888) 910-8644.",
+ "lead": [
+  "To check a plumber's license in Oakley, CA, search the contractor on the CSLB License Check tool at cslb.ca.gov. It takes a few minutes and shows whether the license is active."
+ ],
+ "intro": [
+  "The California Contractors State License Board, known as CSLB, licenses plumbing contractors under the C-36 classification and keeps a free public record you can search by name, business or license number. You can also call 1-800-321-CSLB (2752). A valid, active record is the first thing to confirm before anyone works on your pipes.",
+  "This guide shows what to read on the record, what to ask for in writing, which warning signs matter, and how permits and City business licensing fit in for homeowners in Oakley, CA."
+ ],
+ "sections": [
+  {
+   "kind": "checklist",
+   "h2": "What to look for on a CSLB record",
+   "paras": [
+    "Search the contractor and open the full record. These are the lines worth reading before you agree to anything."
+   ],
+   "items": [
+    {
+     "t": "Status is active",
+     "d": "A license can be expired, suspended or cancelled. Only an active status means the contractor is currently allowed to take on work."
+    },
+    {
+     "t": "Classification includes C-36",
+     "d": "C-36 is the plumbing contractor classification. A contractor licensed in another trade may not be qualified for plumbing work."
+    },
+    {
+     "t": "Business name matches",
+     "d": "The name on the estimate, the truck and the contract should match the name on the record. A mismatch is worth asking about."
+    },
+    {
+     "t": "Bond and workers compensation",
+     "d": "The record shows contractor bond status and whether workers compensation coverage is on file. Ask for current proof if the record is unclear."
+    },
+    {
+     "t": "Complaints and disciplinary notes",
+     "d": "A record with open actions or repeated disciplinary entries deserves a closer look. One old entry is not the same as a pattern."
+    }
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Three minutes at the keyboard",
+   "paras": [
+    "Go to cslb.ca.gov and open the License Check tool. Enter the license number if the contractor gave you one, or search by business name if not. Compare the name, the address and the status against what you were told.",
+    "If the contractor will not provide a number, treat that as a signal. A licensed professional has no reason to hide it. If you are hiring for a bigger project, such as a [[plumbing-installation|plumbing installation]] with new lines or fixtures, check the record before you accept any quote. A C-36 licensee is the classification that covers work under the California Plumbing Code, a state edition of the UPC."
+   ]
+  },
+  {
+   "kind": "compare",
+   "h2": "Licensed contractor versus unlicensed worker: what is at stake",
+   "paras": [
+    "The difference is practical. It shows up in who stands behind the work, what permits are possible and where you stand if something goes wrong."
+   ],
+   "table": {
+    "head": [
+     "Question",
+     "Licensed C-36 contractor",
+     "Unlicensed worker"
+    ],
+    "rows": [
+     [
+      "Can pull permits",
+      "Yes, a CSLB-licensed contractor can be issued one",
+      "Usually not in their own right"
+     ],
+     [
+      "Public record",
+      "Searchable on cslb.ca.gov",
+      "None to check"
+     ],
+     [
+      "Accountability",
+      "Bond and complaint process exist",
+      "Harder to pursue if work fails"
+     ],
+     [
+      "Contract",
+      "Written agreement expected",
+      "Often verbal only"
+     ],
+     [
+      "Insurance questions",
+      "Ask for proof of workers compensation",
+      "Injury on your property may become your problem"
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "prose",
+   "h2": "Why the paperwork protects you after the job",
+   "paras": [
+    "Plumbing work hides behind drywall and under floors, so problems may show up weeks later. A licensed contractor with a written contract gives you a named business to go back to, and a public complaint process if the work falls short. With no license and no paper trail, you have little to point to.",
+    "Keep the contract, receipts, permit paperwork and photos of the finished work in one folder. They help with an insurance claim, a home sale or a warranty question on a fixture. If a defect turns up, written scope makes it easier to show what was promised and what was done.",
+    "The same habit applies to small jobs. A faucet swap and a sewer lateral repair both leave a record, and a quick CSLB search takes less time than the first phone call to an insurer."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Put the job in writing",
+   "paras": [
+    "A written contract should state the work, the materials, the price or how it is figured, and what happens if conditions change. It should name who pulls permits and who schedules any inspection. Ask for the contractor's license number to appear on it.",
+    "Be careful with a request for a large payment before any work begins. Pay as work progresses and keep copies of everything. For a water heater swap, the same rules apply, and our [[water-heater-installation|water heater installation]] page shows the kind of scope a proper job includes."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Red flags worth walking away from",
+   "paras": [
+    "Pushy door-to-door sales, a story that the price expires today and a demand for cash only should make you pause. So should a contractor who says no permit is ever needed. Permit rules vary by job, and the right answer is to ask the building department.",
+    "Check that the person standing at your door is the person on the record. Ask for photo identification if you are unsure. If something feels off, you can call the CSLB line to ask how to verify."
+   ],
+   "bullets": [
+    "No license number offered or one that does not match the name",
+    "Unwillingness to put the scope and price in writing",
+    "A vehicle or flyer with no business name or contact details",
+    "Pressure to pay in full before work starts"
+   ]
+  }
+ ],
+ "localnote": {
+  "h2": "Permits and business licenses in Oakley",
+  "source_type": "City of Oakley",
+  "paras": [
+   "The City of Oakley requires an active City business license to do business in the city, and permits can be issued to the owner, an authorized agent or a CSLB-licensed contractor. City Hall and the permit counter are at 3231 Main Street, and the Building Division can be reached at 925-625-7005.",
+   "The City's page does not list plumbing or water heater work specifically, so permit rules vary. Bring your job description to that counter, and have your contractor tell you in writing who will pull any permit. We cover the Oakley [[service-area|service area]], and homeowners in [[plumber-brentwood-ca|Brentwood]] should ask the City of Brentwood Building Division for their own rules."
+  ]
+ },
+ "faqs": [
+  {
+   "q": "How do I verify a plumber's license in California?",
+   "a": [
+    "Use the License Check tool at cslb.ca.gov or call 1-800-321-CSLB (2752). Search by license number or business name and read the status and classification.",
+    "Confirm that the business name on the record matches the one on your contract."
+   ],
+   "kind": "plain"
+  },
+  {
+   "q": "What does C-36 mean?",
+   "a": [
+    "C-36 is the CSLB classification for plumbing contractors. A record with that classification means the contractor is licensed for plumbing work.",
+    "Other classifications cover different trades."
+   ],
+   "kind": "plain"
+  },
+  {
+   "q": "Is it a problem if a contractor has a complaint on record?",
+   "a": [
+    "Not automatically. Look at what the entry says, how recent it is and whether it was resolved. A pattern is more worrying than a single closed entry.",
+    "If you have questions, the CSLB can explain what a record means."
+   ],
+   "kind": "plain"
+  },
+  {
+   "q": "Should I ask a plumber for proof of insurance?",
+   "a": [
+    "Yes, particularly for work inside the house or anything involving ladders, excavation or gas. Ask for a current certificate rather than a verbal assurance.",
+    "The CSLB record shows workers compensation status, but proof of liability coverage comes from the contractor or the insurer."
+   ],
+   "kind": "plain"
+  },
+  {
+   "q": "Do I need a permit for plumbing work in Oakley?",
+   "a": [
+    "It depends on the job, and the City of Oakley's page does not list plumbing work specifically. Ask the Building Division at 925-625-7005.",
+    "A permit can be issued to the owner, an authorized agent or a CSLB-licensed contractor."
+   ],
+   "kind": "local"
+  }
+ ],
+ "cta_mid": "Before you hire anyone, read the CSLB record, get the scope in writing and ask who pulls the permit.",
+ "cta_end": "Call for a plumbing quote and compare the scope, the paperwork and the clear price against anyone else you are considering.",
+ "side": {
+  "h3": "Hiring for new plumbing?",
+  "copy": "See what a full plumbing installation scope should include.",
+  "link": "plumbing-installation",
+  "link_text": "plumbing installation"
+ }
+}

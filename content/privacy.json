@@ -1,0 +1,68 @@
+{
+ "slug": "privacy",
+ "meta": "Privacy policy for Oakley 24/7 Plumbing: what we collect when you call or email, how it is used, who sees it, and how to ask questions about your information.",
+ "lead": [
+  "This privacy policy explains what information Oakley 24/7 Plumbing handles when you call, email or visit this website."
+ ],
+ "intro": [
+  "Our business runs on the phone, so most of the information we handle comes from a call. We have tried to describe it in plain terms, and you can contact us with any question."
+ ],
+ "sections": [
+  {
+   "kind": "prose",
+   "h2": "Information we receive",
+   "paras": [
+    "When you call, we may receive your phone number, your name, the address of the property, a description of the plumbing problem and any details you choose to share, such as gate codes or access notes. If you email us, we receive your email address and whatever you write.",
+    "This website does not contain forms. Like most websites, its hosting may record basic technical details such as the pages visited and the browser used."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Call recording",
+   "paras": [
+    "Calls to our line may be recorded for quality and training purposes. We tell callers this so that you can decide whether to continue, and you can ask the dispatcher to explain it at the start of a call.",
+    "Please avoid reading out payment card numbers or other sensitive personal details unless the dispatcher specifically asks for them as part of a service."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "How we use information",
+   "paras": [
+    "We use what you tell us to dispatch a plumber to the right address, to understand the problem, to give you a clear price before work starts, and to follow up about your visit. We also review calls to check that the information given was accurate and to improve how the dispatch line works.",
+    "We do not use your details for anything unrelated to the plumbing service you asked about."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Who may see it",
+   "paras": [
+    "Information is shared with the people who need it to complete your job, such as dispatch staff and the plumber visiting your property. Service providers who help run our phone line or website may handle information on our behalf and only for that purpose.",
+    "We may also disclose information when the law requires it or when needed to protect someone's safety."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Keeping information safe",
+   "paras": [
+    "We take reasonable steps to protect the information we hold, but no phone line, email system or website can be guaranteed against every risk. If something you shared seems at risk, tell us and we will look into it."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Your choices",
+   "paras": [
+    "You may ask what information we hold about you, ask us to correct it, or ask us to stop contacting you about a past job. California residents may have additional rights under California law, and we will respond to a request as the law requires.",
+    "To make a request, call the number on our [[contact|contact page]] or write to contact@247plumberoakleyca.com."
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Children and changes",
+   "paras": [
+    "This site and phone line are meant for adults who own or manage property, and they are not directed at children. If we change this policy, the updated version will appear on this page. Questions about this policy can be sent to contact@247plumberoakleyca.com."
+   ]
+  }
+ ],
+ "cta_mid": "Questions about how your information is handled can be raised by phone at any hour, and a dispatcher will help.",
+ "cta_end": "If you would like to know more about this policy, call or email and we will answer."
+}

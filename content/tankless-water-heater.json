@@ -1,0 +1,237 @@
+{
+ "slug": "tankless-water-heater",
+ "meta": "Hot water fading or a fault code? We repair, flush and descale tankless water heaters in Oakley, CA. Clear price before work starts. Call (888) 910-8644.",
+ "lead": [
+  "Tankless water heater service in Oakley, CA: repair, flush, descaling and installation for on-demand units.",
+  "Mineral buildup is the usual enemy, and we handle it before it shortens the heater's life."
+ ],
+ "intro": [
+  "A tankless water heater, also called an on-demand heater, heats water as it flows instead of storing it in a tank. In Oakley, CA the water has a measurable mineral load, and scale on the heat exchanger is the main reason these units lose output over the years. Diablo Water District supplies the water in most of the city, and its hardness figures guide how often a unit needs attention.",
+  "This page covers faults and fixes, how often to flush, what the local water means for your unit's heat exchanger, and what to weigh before switching from a tank."
+ ],
+ "sections": [
+  {
+   "kind": "prose",
+   "h2": "My hot water runs out or the unit shows an error",
+   "paras": [
+    "If hot water fades mid-shower, turns lukewarm or the display flashes a fault, a tankless heater is usually reporting a scale, flow or ignition problem. The technical name for the cure is a flush and descale, which circulates a mild acid solution through the heat exchanger, plus a check of the inlet filter and venting.",
+    "Not every fault is scale. Sensors, igniters, fans and gas supply can fail too, so we read the code and test before recommending a repair."
+   ]
+  },
+  {
+   "kind": "local",
+   "h2": "Diablo Water District hardness and your heat exchanger",
+   "paras": [
+    "The 2025 water quality report from Diablo Water District puts average hardness near 124 mg/L, about 7 grains per gallon, which is enough to scale a heat exchanger over the years. That sits at the low end of hard water. Even so, a tankless heater runs the water very hot in a narrow passage, so minerals drop out as scale on the exchanger.",
+    "Because the water in Oakley is a blend of treated Delta supply and groundwater, hardness can shift over time, so ask Diablo Water District for the current report and follow the maker's flush schedule. A water softener or filter helps some owners, and our [[water-softener-filtration|water softener and filtration]] page explains the tradeoffs.",
+    "Venting, gas sizing and the relief valve all fall under the California Plumbing Code, a descendant of the UPC, as well as the maker's manual."
+   ],
+   "facts": [
+    {
+     "label": "Average hardness",
+     "value": "124 mg/L (about 7 gpg)"
+    },
+    {
+     "label": "Range",
+     "value": "87 to 150 mg/L"
+    },
+    {
+     "label": "Utility",
+     "value": "Diablo Water District"
+    }
+   ]
+  },
+  {
+   "kind": "checklist",
+   "h2": "Faults we see on on-demand heaters",
+   "paras": [
+    "The same few trouble spots account for most service visits."
+   ],
+   "items": [
+    {
+     "t": "Scale on the exchanger",
+     "d": "Reduced flow, rising temperature swings and clicking noises. A descale clears it."
+    },
+    {
+     "t": "Clogged inlet filter",
+     "d": "Debris after water work can block the screen, causing weak flow and fault codes."
+    },
+    {
+     "t": "Ignition or flame sensor",
+     "d": "Gas units may fail to light or shut off early when the sensor is dirty or worn."
+    },
+    {
+     "t": "Venting problems",
+     "d": "A blocked or leaking vent triggers safety lockouts. Gas smell means leave and call 911, then PG&E at 1-800-743-5000."
+    },
+    {
+     "t": "Small leaks",
+     "d": "A drip at a fitting or isolation valve is often a repair. A leak from the body itself is not."
+    }
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Safety steps when a tankless unit misbehaves",
+   "paras": [
+    "Do not keep resetting a unit that trips an error code over and over, because repeated restarts can hide a venting or gas problem. Shut off the gas or the power at the unit, and leave the cover on.",
+    "Do not touch the vent pipe or the water coming from a unit that has been overheating, and move anything flammable away from it."
+   ],
+   "bullets": [
+    "Gas smell: leave the building, call 911, then PG&E at 1-800-743-5000",
+    "Water on the floor: close the cold supply to the unit and note where it came from",
+    "Error code: write it down and photograph the display before calling",
+    "Hot vent pipe or scorched wall: shut the unit off at the breaker or gas valve"
+   ]
+  },
+  {
+   "kind": "prose",
+   "h2": "Flushing and descaling, step by step",
+   "paras": [
+    "Isolation valves let a plumber attach hoses to the unit's service ports without draining the house. A pump circulates the descaling solution through the exchanger, the unit is rinsed with clean water, and the inlet filter is cleaned.",
+    "How often depends on hardness, usage and the manufacturer's directions. With Diablo Water District water sitting in the hard range, many owners flush about once a year, but follow your manual and ask us if the unit has never been serviced. Older units that past companies declined to service are welcome, and we say plainly if the unit cannot be restored."
+   ],
+   "bullets": [
+    "Shutoffs closed and unit powered down",
+    "Hoses connected to service ports",
+    "Solution circulated through the exchanger",
+    "Rinse and filter cleaning",
+    "Test at the tap and record flow"
+   ]
+  },
+  {
+   "kind": "compare",
+   "h2": "Service, repair or replace: what each visit covers",
+   "paras": [
+    "Choose by what the unit is doing, not only by its age."
+   ],
+   "table": {
+    "head": [
+     "Task",
+     "What it addresses",
+     "Frequency or trigger"
+    ],
+    "rows": [
+     [
+      "Flush and descale",
+      "Scale, reduced output, noise",
+      "Per maker schedule, shorter in harder water"
+     ],
+     [
+      "Repair",
+      "Failed sensor, igniter, fan, leaking fitting",
+      "When a fault or code appears"
+     ],
+     [
+      "Replacement",
+      "Cracked exchanger, unrepairable body leak, discontinued parts",
+      "When repair is unreasonable, see [[water-heater-replacement|replacement]]"
+     ],
+     [
+      "New install or conversion",
+      "Switching from a tank to on-demand",
+      "Planned, see [[water-heater-installation|installation]]"
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "cost",
+   "h2": "What affects tankless service pricing",
+   "paras": [
+    "Service pricing for on-demand heaters follows the work and the unit."
+   ],
+   "factors": [
+    {
+     "t": "Whether isolation valves exist",
+     "d": "Adding them during a first flush saves time and money later."
+    },
+    {
+     "t": "Scale level",
+     "d": "A unit that has never been flushed takes longer to clear."
+    },
+    {
+     "t": "Brand and model",
+     "d": "Parts availability and the service procedure vary by maker."
+    },
+    {
+     "t": "Fuel and venting",
+     "d": "Gas units include combustion and vent checks that electric units skip."
+    },
+    {
+     "t": "Conversion scope",
+     "d": "Switching from a tank to on-demand may need a larger gas line, vent or circuit."
+    }
+   ],
+   "insurance": "Scale damage is wear, not a sudden event, so insurers rarely cover it. A burst line or flooding from the unit may be treated differently, so ask your insurer and keep photos.",
+   "call_line": "Call (888) 910-8644 for a clear price before work starts."
+  },
+  {
+   "kind": "prose",
+   "h2": "Thinking of switching from a tank",
+   "paras": [
+    "On-demand heating avoids standby loss and frees wall space, but it needs the right gas line or electrical capacity and a venting path. A gas unit installed new at replacement falls under the Air District's zero-NOx schedule. On November 4, 2026 the Board adopted a delay of that date from January 2027 to January 2028, so check baaqmd.gov for the current rule.",
+    "Permit questions for a tankless conversion go to City building staff. We also serve [[plumber-brentwood-ca|Brentwood]], where you should ask the City of Brentwood for its own water quality report and hardness line."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do you repair tankless water heaters or only replace them?",
+   "kind": "plain",
+   "a": [
+    "We repair them, and we flush and descale them too. If the exchanger has failed or parts are gone, we say so plainly."
+   ]
+  },
+  {
+   "q": "How often should a tankless heater be flushed?",
+   "kind": "plain",
+   "a": [
+    "Follow the maker's schedule. With Oakley's hard-range water, once a year is a common choice, and a unit that has never been serviced should be done soon."
+   ]
+  },
+  {
+   "q": "Why is my tankless showing an error code?",
+   "kind": "plain",
+   "a": [
+    "Codes point to scale, flow, ignition, venting or sensor trouble. Note the code before power cycling, and call us so we can narrow the cause."
+   ]
+  },
+  {
+   "q": "Is flushing worth it?",
+   "kind": "plain",
+   "a": [
+    "Usually yes. Scale lowers output and shortens life, and a flush costs far less than a heat exchanger."
+   ]
+  },
+  {
+   "q": "How long does a flush take?",
+   "kind": "plain",
+   "a": [
+    "Often about an hour or two when isolation valves are present. A heavily scaled unit takes longer."
+   ]
+  },
+  {
+   "q": "Does hard water in Oakley matter for tankless units?",
+   "kind": "local",
+   "a": [
+    "Diablo Water District's average hardness is 124 mg/L, at the low end of hard. That is enough for scale over time, so keep up the flushes."
+   ]
+  },
+  {
+   "q": "Can you service a unit another company refused?",
+   "kind": "plain",
+   "a": [
+    "Often yes. Tell us the brand and age and any code displayed, and we will say whether service is feasible."
+   ]
+  }
+ ],
+ "cta_mid": "Send us the brand and the code on the display and we will plan the flush or repair before arriving.",
+ "cta_end": "Get your on-demand heater back to steady hot water with a proper descale.",
+ "side": {
+  "h3": "Tankless flush and fix",
+  "copy": "Scale, error codes and weak flow are the usual reasons we are called to on-demand heaters.",
+  "link": "water-softener-filtration",
+  "link_text": "Softening and filtration options"
+ }
+}

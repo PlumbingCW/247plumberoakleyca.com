@@ -1,0 +1,130 @@
+{
+ "meta": "Plumber for Cypress Grove in Oakley, CA: sewer backups, private lateral versus the public main, camera inspection and drain clearing. Call (888) 910-8644.",
+ "lead": [
+  "Drain and sewer help for Cypress Grove, the neighborhood near Cypress Road in Oakley, CA. Call to describe the backup and arrange a visit."
+ ],
+ "intro": [
+  "Cypress Grove is a residential area near Cypress Road in Oakley, ZIP 94561. City planning documents from late 2001 describe about 147 acres and up to 660 homes. The site lay near State Route 4, Delta Vista Middle School, Marsh Creek and Emerson Slough.",
+  "Those documents are planning records and not a count of finished homes, and we do not know when each street was built. This page takes a drain and sewer angle and explains the difference between your private line and the public main."
+ ],
+ "sections": [
+  {
+   "kind": "prose",
+   "h2": "Private lateral, public main",
+   "paras": [
+    "A sewer system has two parts. The lateral is the pipe from your house to the sewer in the street, and it belongs to the property owner. The main runs along the street and belongs to Ironhouse Sanitary District.",
+    "The difference decides who clears a blockage. A backup inside one house usually points to the lateral or a branch drain. Backups in several nearby houses at once suggest the main, and that is a call to the district at (925) 625-2279."
+   ]
+  },
+  {
+   "kind": "compare",
+   "h2": "Clues that separate a house problem from a street problem",
+   "paras": [
+    "These are general rules of thumb, not a diagnosis."
+   ],
+   "table": {
+    "head": [
+     "Clue",
+     "Points to",
+     "Next step"
+    ],
+    "rows": [
+     [
+      "Only one sink or tub is slow",
+      "Branch drain in the house",
+      "Cable or snake that drain, see [[drain-cleaning|drain cleaning]]"
+     ],
+     [
+      "Every drain is slow, toilets gurgle",
+      "Main house line or lateral",
+      "Camera inspection, see [[sewer-inspection|sewer inspection]]"
+     ],
+     [
+      "Neighbors on the street also back up",
+      "Public main",
+      "Call Ironhouse Sanitary District"
+     ],
+     [
+      "Backup returns within days of clearing",
+      "Root, belly or damage in the lateral",
+      "Inspect, then plan [[sewer-line-repair|sewer line repair]]"
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "prose",
+   "h2": "What happens on a sewer call",
+   "paras": [
+    "We start by asking where water backs up first, since a floor drain or a bathtub is often the lowest point in the house. Then a cable or [[hydro-jetting|hydro jetting]] clears the line, and a camera confirms what was causing the blockage.",
+    "If the camera shows damage, the footage is what you decide on. Keep that footage for a home sale. Ironhouse Sanitary District asks for a CCTV Compliance Certificate when a property more than 20 years old is sold."
+   ],
+   "callout": {
+    "title": "Before you pour anything down the drain",
+    "text": "Skip acid and caustic drain cleaners. They are hazardous to handle and to the plumber who arrives afterward, and they rarely clear a root or grease blockage."
+   }
+  },
+  {
+   "kind": "checklist",
+   "h2": "While you wait for the visit",
+   "paras": [
+    "Small steps limit the mess."
+   ],
+   "items": [
+    {
+     "t": "Stop the water",
+     "d": "Avoid flushing and running dishwashers or washers when drains are backing up."
+    },
+    {
+     "t": "Protect the lowest floor",
+     "d": "Move rugs and belongings away from floor drains, tubs and showers."
+    },
+    {
+     "t": "Note what you see",
+     "d": "Tell us which fixtures gurgle or back up and when it began. See [[sewer-line-cleaning|sewer line cleaning]] for how the clearing visit works."
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do you serve Cypress Grove?",
+   "a": [
+    "Yes. Dispatch takes calls for Oakley, ZIP 94561, including the Cypress Grove streets off Cypress Road. Give your street and describe the problem."
+   ]
+  },
+  {
+   "q": "Is my sewer lateral my responsibility?",
+   "a": [
+    "Yes. The owner owns the lateral from the house to the main. Ironhouse Sanitary District looks after the main in the street."
+   ]
+  },
+  {
+   "q": "How do I know whether the blockage is the main?",
+   "a": [
+    "If several neighbors back up at once, suspect the main and call the district. If only your house is affected, the lateral or a branch drain is more likely."
+   ]
+  },
+  {
+   "q": "Why would a camera inspection help if the drain is already cleared?",
+   "a": [
+    "A cleared line can fail again if roots or a sag are the cause. The camera shows the cause and gives you a record you can use for a sale."
+   ]
+  },
+  {
+   "q": "Is a drain backup an emergency?",
+   "a": [
+    "Sewage coming up in a tub or floor drain is urgent because it spreads. A single slow sink can usually wait for the next available visit."
+   ]
+  }
+ ],
+ "cta_mid": "Sewage backing up in a tub or floor drain in Cypress Grove? Stop using water and call dispatch to describe it.",
+ "cta_end": "Gurgling drains or a backup that keeps returning? Call dispatch and describe it, and the work and price are explained before it starts.",
+ "side": {
+  "h3": "Cypress Grove, Oakley",
+  "copy": "Tell us which fixtures back up and when it started.",
+  "link": "sewer-inspection",
+  "link_text": "Read about sewer inspection"
+ },
+ "slug": "plumber-cypress-grove-oakley-ca"
+}
